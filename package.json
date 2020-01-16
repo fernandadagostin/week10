@@ -1,0 +1,17 @@
+{
+  "name": "week10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fernandadagostin/week10.git",
+  "author": "Fernanda Dagostin <33377159+fernandadagostin@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
